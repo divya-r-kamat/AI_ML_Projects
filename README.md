@@ -1,2 +1,1 @@
-# PG_AI_ML
-Artifacts related to my Post Graduate Program
+# Artifacts related to my AI/ML Work
